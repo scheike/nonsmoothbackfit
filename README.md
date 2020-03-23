@@ -1,2 +1,14 @@
-# nonsmoothbackfit
-code for additive hazards backfitting algorithm
+# Non-Smooth Backfitting for additive hazards 
+
+* Non-Smooth Backfitting for additive hazards 
+
+Code for reproducing the results of the paper 
+ - Non-Smooth Backfitting for Excess Risk Additive Regression Model with Two Survival Time-Scales, Haibu, Nielsen, and Scheike
+
+
+consist of 
+
+ - some R functions for the paper with the code for the application section in the paper  to reproduce simple model
+ - this a simple first version and will be developed furhter. 
+
+
